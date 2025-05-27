@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Software Developement at [neue fische](https://www.neuefische.de/)
+- 💬 Ask me about **anything you like**
+- ⚡ Fun fact: _Nachts ist es kälter als draußen!_
+
+
 
 <!--
 **Tolpius/Tolpius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
